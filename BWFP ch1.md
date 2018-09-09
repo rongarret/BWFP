@@ -211,7 +211,7 @@ The result should be a window full of Lisp code.  The name of the window should 
 
 followed by a whole bunch of other stuff.  What you are looking at is the actual code for the SQRT function built-in to Common Lisp.  Try repeating this process by putting the cursor on the name of any other function mentioned in SQRT (or anywhere else in that window) and typing [option-.].  You can explore the entire CCL code base this way (and by the time you get to the end of this book you will be able to understand nearly all of it, and even modify it to suit your own needs and desires!
 
-But for now, let's build out first web page.  To do that we're going to have to go beyond the bounds of what is built in to Common Lisp and use some of the infrastructure in Ergolib (remember Ergolib?  It's the other thing you downloaded along with CCL at the beginning of this chapter.)
+But for now, let's build our first web page.  To do that we're going to have to go beyond the bounds of what is built in to Common Lisp and use some of the infrastructure in Ergolib (remember Ergolib?  It's the other thing you downloaded along with CCL at the beginning of this chapter.)
 
 There are two ways to load Ergolib.  The easiest is to go into the Ergolib folder and double-click on the file "init.lisp".  That should open that file in CCL.  You now need to run all of the code in that file.  As always, there are multiple ways to do this:
 
