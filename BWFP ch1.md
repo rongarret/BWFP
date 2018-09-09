@@ -22,11 +22,11 @@ Finally, Common Lisp is a dialect of Lisp, which is the single most influential 
 
 This book is about programming, so I am going to assume that you already have some basic skills.  I am going to assume that you know how to use a web browser and a search engine.  I am going to assume that you know how to install and run software on your machine, and how to use a terminal.  The infrastructure we are going to use runs best on a Macintosh, but it's also possible to do this on a Linux or Windows machine as well.  But the current draft of the book assumes you're running on a Mac.
 
-On the other hand, I am not going to assume that you know anything at all about programming.  So if have written code before you may find some of the preliminary stuff to be a little too simply, perhaps even condescending.  Trust me, things will get more challenging.
+On the other hand, I am not going to assume that you know anything at all about programming, so if you have written code before you may find some of the preliminary stuff to be a little too simple, perhaps even condescending.  Trust me, things will get more challenging.
 
 # Lesson 1:
 
-The first step is get set up with the infrastructure we're going to use.  The core of this infrastructure is an implementation of Common Lisp called Clozure Common Lisp (CCL).  You can find it [on the Clozure site](http://ccl.clozure.com) or [the Mac App Store](https://itunes.apple.com/us/app/clozure-cl/id489900618).
+The first step is to get set up with the infrastructure we're going to use.  The core of this infrastructure is an implementation of Common Lisp called Clozure Common Lisp (CCL).  You can find it [on the Clozure site](http://ccl.clozure.com) or [the Mac App Store](https://itunes.apple.com/us/app/clozure-cl/id489900618).
 
 Either version will work.  You'll learn more if you get the source code from the Clozure site and build it yourself, but walking you through that process is beyond the scope of this chapter, so if you have trouble or just want to get on with it, use the App Store version.
 
