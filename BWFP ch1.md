@@ -245,7 +245,7 @@ Now:
 
 	(defpage "/test" (:h1 "Hello world"))
 
-	(ensure-web-server 1234)
+	(ensure-http-server 1234)
 
 Now point your browser to http://localhost:1234/test
 
